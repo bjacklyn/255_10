@@ -4,7 +4,7 @@
 
 a) Image
 * https://colab.research.google.com/drive/1-Dazm3uVr4tPhU3V8LbvXGN3Gat-Ld-K?usp=sharing
-* todo
+* https://www.youtube.com/watch?v=uNrP6ci9sVQ
 
 b) Tabular
 * https://colab.research.google.com/drive/1I-VFpQZV90JRXnQceC6N1JCODtrMaVXG?usp=sharing
